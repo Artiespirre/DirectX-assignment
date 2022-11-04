@@ -1,2 +1,9 @@
 #pragma once
-//Enter your code
+enum  //Enter your code{
+	KBS = 1,
+	MBC = 3,
+	SBS = 6,
+	JTBC = 30
+};
+
+//
